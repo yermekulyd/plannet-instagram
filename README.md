@@ -1,4 +1,4 @@
-# Instagram Clone
+# Plannet - Instagram Clone
 
 A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
@@ -33,5 +33,3 @@ Then run the following commands to run your app:
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
 **Client**: Flutter, Provider
-    
-# plannet-instagram
